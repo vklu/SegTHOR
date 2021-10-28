@@ -1,4 +1,5 @@
 Code is used to train a model on the SegTHOR dataset
+
 Files should be set up in the following way
 
 test folder:
